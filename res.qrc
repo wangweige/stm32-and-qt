@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/湿度.png</file>
+        <file>picture/温度.png</file>
+        <file>picture/温湿度.png</file>
+        <file>picture/01.gif</file>
+        <file>picture/02.jpg</file>
+        <file>picture/hot.jpg</file>
+        <file>picture/relax.jpg</file>
+    </qresource>
+</RCC>
